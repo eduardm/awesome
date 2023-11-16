@@ -1,0 +1,63 @@
+# Copyright (C) 2023 OnTheGoSystems
+# This file is distributed under the same license as the Advanced Custom Fields Multilingual plugin.
+msgid ""
+msgstr ""
+"Project-Id-Version: Advanced Custom Fields Multilingual 2.0.0\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/acfml\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2023-03-09T09:53:28-03:00\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"X-Generator: WP-CLI 2.6.0\n"
+"X-Domain: acfml\n"
+
+#: Acronyms
+msgid "The URL of the HTML file is required"
+msgstr ""
+
+#: Titles
+msgid "Site Moved or Copied - Action Required"
+msgstr ""
+
+#: All caps
+msgid "HALLOWEEN CONTENT: ON"
+msgstr ""
+
+#: Placeholders
+msgid "Games by [name] for Kids"
+msgstr ""
+
+#: NER names with transliteration, along with glossary name
+msgid "On a sunny Wednesday in July, Elizabeth boarded a British Airways flight from Heathrow Airport to John F. Kennedy International Airport"
+msgstr ""
+
+#: Emphasised words
+msgid "This is VERY important"
+msgstr ""
+
+#: Title names match - title text
+msgid "Connecting to WPML’s Advanced Translation Editor"
+msgstr ""
+
+#: Title names match - normal text
+msgid "You must use the Advanced Translation Editor if you want to translate your content automatically."
+msgstr ""
+
+#: Title names no match - title text
+msgid "Copy Translation Memory to Advanced Translation Memory"
+msgstr ""
+
+#: Title names no match - normal text
+msgid "Import translation memory"
+msgstr ""
+
+#: Glossary names and terms
+msgid "Elizabeth likes orange"
+msgstr ""
+
+#: Formality
+msgid "Thank you for using DeepL Pro!"
+msgstr ""
